@@ -16,7 +16,7 @@ const Home = ({allPostsData}: {
     }[]
 }) => {
     return (
-        <div className={homeStyles.headingMd}>
+        <div className={homeStyles.container}>
             <Head>
                 <title>John Ahn</title>
             </Head>
